@@ -1,2 +1,2 @@
-# html-fund-me-fcc
-The followed and somewhat improvised work from Patrick Collins' js course, lesson 9
+1. HTML / Javascript
+   Later on, we will use Nextjs / Reactjs

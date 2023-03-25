@@ -1,0 +1,10 @@
+p {
+    color: white;
+    display: inline-block;
+}
+button {
+    color: black;
+}
+body {
+    background-color: rgba(0, 0, 0, 0.85);
+}
